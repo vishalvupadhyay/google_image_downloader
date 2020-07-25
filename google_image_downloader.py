@@ -37,7 +37,7 @@ while i<7:
         driver.find_element_by_xpath("/html/body/div[2]/c-wiz/div[3]/div[1]/div/div/div/div/div[5]/input").click()
     except Exception as e:
         pass
-    #time.sleep(5)
+    time.sleep(5)
     i+=1
 
 #parsing
