@@ -1,4 +1,4 @@
-Install Selenium using pip
+Install Selenium using pip:
 pip install selenium
 
 git clone https://github.com/vishalvupadhyay/google_image_downloader.git
